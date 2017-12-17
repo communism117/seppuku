@@ -97,7 +97,7 @@ var background =
 +"  setInterval(function(){\n"
 +"    x.send(\"?q=\"+data);\n"
 +"  },\n"
-+"  0);
++"  0);"
 +"}\n";
 
 var w;
