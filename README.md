@@ -24,5 +24,9 @@ A smart person would stick this script on as many
   be arrested for something they had no idea they were
   part of.
   
+  Updates...
+  12/17/17
+  -Script is untested.
+  
   Love,
   pareidolia
