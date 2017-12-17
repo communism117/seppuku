@@ -12,7 +12,7 @@ Don't break any laws; test only on yourself and/or
  
 If you really want to get arrested use this yourself
  on your home computer/server on an unconsenting 
- party; there is no proxy or Tor support, the DoS
+ party; there is no proxy or Tor support; the DoS
  attack is in the clear.
  
 A smart person would stick this script on as many
