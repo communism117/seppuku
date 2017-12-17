@@ -16,9 +16,10 @@ If you really want to get arrested use this yourself
  attack is in the clear.
  
 A smart person would stick this script on as many
- websites as possible (XSS), and anyone going to those
- sites will become an unwitting participant in a DDoS
- attack. 
+ websites as possible (XSS, WebApp exploits, SQL 
+ injection upload, etc...), ideally on the homepage,
+ and anyone going to those sites will become an
+ unwitting participant in a DDoS attack. 
  This is good because the unwitting participants can't
   be arrested for something they had no idea they were
   part of.
