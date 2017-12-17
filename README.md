@@ -11,7 +11,7 @@ Don't break any laws; test only on yourself and/or
  consenting party(s) only.
  
 If you really want to get arrested use this yourself
- on your home computer/server on an unconsenting 
+ on your own computer/server on an unconsenting 
  party; there is no proxy or Tor support; the DoS
  attack is in the clear.
  
