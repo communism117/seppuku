@@ -24,9 +24,24 @@ A smart person would stick this script on as many
   be arrested for something they had no idea they were
   part of.
   
-  Updates...
+This script uses AJAX to scream AJAX requests at a
+ server, both on reply from the server, and at a
+ setInterval (setInterval with a 0 parameter).
+ This way if a website doesn't reply the setInterval
+ AJAX will intervene. Combined it could be quite
+ devastating. I used blobs because I wanted the
+ script to be self-contained in one js file. If
+ blobs don't work the script falls back on just the
+ setInterval function. The SharedWorker is created
+ from the blob created from the "background" code.
+ This allows the DoS attack to continue no matter
+ what page on the infected site the unwitting user
+ is on, so long as a browser window is still open
+ on the site.
   
-  12/17/17 - Script is untested.
+Updates...
   
-  Love,
-  pareidolia
+12/17/17 - Script is untested.
+  
+Love,
+pareidolia
