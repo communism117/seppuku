@@ -25,8 +25,8 @@ A smart person would stick this script on as many
   part of.
   
   Updates...
-  12/17/17
-  -Script is untested.
+  
+  12/17/17 - Script is untested.
   
   Love,
   pareidolia
